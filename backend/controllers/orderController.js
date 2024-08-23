@@ -8,6 +8,7 @@ const currency = "inr";
 const deliveryCharge = 50;
 const frontend_URL = 'https://food-delivery-app-1-frontend.onrender.com'';
 
+
 // Placing User Order for Frontend using stripe
 const placeOrder = async (req, res) => {
 
